@@ -9,4 +9,3 @@ object = {
   name = "anushka"
   salary = 450000
 }
-modified in master branch to test git merge from git hub
